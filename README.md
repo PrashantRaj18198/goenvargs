@@ -28,6 +28,7 @@ Autoload - parse all the vars, I don't care about missing env variables
 ```go
 import (
   _ "github.com/PrashantRaj18198/goenvargs/autoload"
+)
 
 ```
 
